@@ -16,7 +16,7 @@ function validatePassword(password) {
 
 
   for (let i = 0; i < password.length; i++) {
-    if (passwordLenth >= 8) return true
+    if (passwordLenth >= 8) return true 
 
     //if (numerics.password) return true
 
